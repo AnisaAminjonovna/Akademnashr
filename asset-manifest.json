@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efe6c278.css",
+    "main.js": "/static/js/main.fc0893be.js",
+    "static/media/python-book.jpg": "/static/media/python-book.602c8d5aca178eee17a1.jpg",
+    "static/media/sale-img.jpg": "/static/media/sale-img.d4a58b336fbbd91f8e76.jpg",
+    "static/media/logo(3).svg": "/static/media/logo(3).b3170c7bf33f733a78f78ca9c1670c74.svg",
+    "index.html": "/index.html",
+    "main.efe6c278.css.map": "/static/css/main.efe6c278.css.map",
+    "main.fc0893be.js.map": "/static/js/main.fc0893be.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efe6c278.css",
+    "static/js/main.fc0893be.js"
+  ]
+}
